@@ -15,7 +15,7 @@ public class T1_Basic {
 		Map<Integer, String> map = new HashMap<>();
 		
 		System.out.println("1.크기 : " + map.size());
-		System.out.println("1.toString : " + map);
+		System.out.println("1.toString : " + map); //투스트링이 생략
 		System.out.println();
 		
 		// 자료의 삽입(추가) : put(키, 값)
